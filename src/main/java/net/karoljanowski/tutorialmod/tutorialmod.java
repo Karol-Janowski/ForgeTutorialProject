@@ -16,6 +16,7 @@ public class tutorialmod {
 
     private static final Logger LOGGER = LogUtils.getLogger();
 
+    // veery important comment
     public tutorialmod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
